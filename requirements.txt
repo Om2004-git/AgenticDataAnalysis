@@ -4,6 +4,6 @@ langchain-core
 scikit-learn
 plotly
 langchain
-langgraph
+langgraph==0.0.25
 langchain-openai
 langchain_experimental
