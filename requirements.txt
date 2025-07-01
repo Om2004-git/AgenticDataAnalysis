@@ -1,7 +1,9 @@
 pandas
 streamlit
-scikit-learn
+langchain-core
+sklearn
 plotly
 langchain
-openai
+langgraph
+langchain-openai
 
