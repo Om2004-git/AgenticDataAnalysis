@@ -6,4 +6,4 @@ plotly
 langchain
 langgraph
 langchain-openai
-
+langchain_experimental
