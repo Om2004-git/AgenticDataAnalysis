@@ -3,7 +3,7 @@ from langchain_experimental.utilities import PythonREPL
 
 from langchain_core.messages import AIMessage
 from typing import Annotated, Tuple
-from langgraph.prebuilt.tool_executor import InjectedState
+from langgraph.prebuilt import InjectedState
 import sys
 from io import StringIO
 import os
